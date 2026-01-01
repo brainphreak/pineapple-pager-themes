@@ -88,26 +88,26 @@
       "selected_layers": [
         { "image_path": "assets/dashboard/item_bg.png","x": 4, "y": 5 },
         { "image_path": "assets/dashboard/settings.png", "x": 19, "y": 19, "recolor_palette": "green" },
-        { "text": "SETTINGS", "x": -64, "y": -86, "text_size": "large", "text_color_palette": "green" }
+        { "text": "SETTINGS", "x": -65, "y": -86, "text_size": "large", "text_color_palette": "green" }
       ],
       "x": 326,
       "y": 139,
       "target": "settings_menu"
     },
     {
-      "id": "GPSD",
+      "id": "WARDRIVING",
       "layers": [
         { "image_path": "assets/dashboard/item_bg.png","x": 4, "y": 5 },
-        { "image_path": "assets/dashboard/gps.png", "x": 20, "y": 18, "recolor_palette": "light_purple" }
+        { "image_path": "assets/dashboard/gps.png", "x": 19, "y": 18, "recolor_palette": "light_purple" }
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/item_bg.png","x": 4, "y": 5 },
-        { "image_path": "assets/dashboard/gps.png", "x": 20, "y": 18, "recolor_palette": "green" },
-        { "text": "GPSD", "x": -67, "y": -50, "text_size": "large", "text_color_palette": "green" }
+        { "image_path": "assets/dashboard/gps.png", "x": 19, "y": 18, "recolor_palette": "green" },
+        { "text": "WARDRIVING", "x": -120, "y": -50, "text_size": "large", "text_color_palette": "green" }
       ],
       "x": 362,
       "y": 103,
-      "target": "function_restart_gpsd"
+      "target": "status_screen"
     },
     {
       "id": "GEIGER",
