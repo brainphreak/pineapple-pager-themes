@@ -98,13 +98,6 @@ The wardriving screen provides quick access to GPS and wardriving-related settin
 1. Copy the theme folder to `/root/themes/` on your WiFi Pineapple Pager
 2. Select the theme from Settings > Display > Theme
 
-## Customization
-
-- Edit `theme.json` for color palette
-- Edit `components/dashboards/wargames_dashboard.json` for dashboard button layout
-- Edit `components/dashboards/status_screen.json` for wardriving screen layout
-- Icons are in `assets/dashboard/`
-
 ## Author
 
 brAinphreAk
