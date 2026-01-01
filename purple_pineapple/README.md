@@ -25,7 +25,7 @@ A custom purple/green theme for the Hak5 WiFi Pineapple Pager.
 
 ## Screenshots
 
-### Boot Screen
+### Welcome Screen
 <img src="screenshots/boot.png" width="480">
 
 ### Dashboard
