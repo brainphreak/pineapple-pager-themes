@@ -13,7 +13,7 @@
   },
   "background": {
     "layers": [
-      { "image_path": "assets/dashboard/theblackpacket_bg.png", "x": 0, "y": 0 }
+      { "image_path": "assets/dashboard/purple_pineapple_theme.png", "x": 0, "y": 0 }
     ],
     "background_color": { "r": 0, "g": 0, "b": 0 }
   },
