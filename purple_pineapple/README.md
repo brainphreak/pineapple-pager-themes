@@ -1,35 +1,55 @@
 # Purple Pineapple Theme
 
-A custom purple/green theme for the Hak5 WiFi Pineapple Pager.
+A custom purple/green cyberpunk theme for the Hak5 WiFi Pineapple Pager.
 
 ## Features
 
 - Purple color scheme with green highlights when selected
 - 7-button dashboard layout with zigzag pattern
 - Custom icons for all dashboard buttons
-- GPSD restart button for quick GPS daemon restart
-- GEIGER toggle for recon audio
-- Dark green toggle background when highlighted
+- **NEW: Wardriving screen** with GPS coordinates and two-column settings layout
+- GEIGER toggle for recon audio on dashboard
+- Custom boot animation with cyberpunk command center
 
 ## Dashboard Buttons
 
 | Button | Function |
 |--------|----------|
-| ALERTS | View alerts |
-| PAYLOADS | Access payloads |
-| RECON | Reconnaissance tools |
-| PINEAP | PineAP settings |
+| ALERTS | View alerts and notifications |
+| PAYLOADS | Access and launch payloads |
+| RECON | Reconnaissance tools and packet stats |
+| PINEAP | PineAP settings and toggles |
 | SETTINGS | Device settings |
-| GPSD | Restart GPS daemon |
+| WARDRIVING | GPS and wardriving settings |
 | GEIGER | Toggle recon audio |
+
+## Wardriving Screen
+
+The wardriving screen provides quick access to GPS and wardriving-related settings:
+
+**Left Column:**
+- Wigle mode toggle
+- Restart GPSd
+- 2.4 GHz band toggle
+- 5 GHz band toggle
+- 6 GHz band toggle
+- Handshakes collection toggle
+
+**Right Column:**
+- GPS Device selection
+- Baud Rate selection
+- Record PCAP toggle
+- Save Recon DB toggle
+- Recon Audio toggle
+- Background Audio toggle
 
 ## Screenshots
 
-### Welcome Screen
+### Boot Screen
 <img src="screenshots/boot.png" width="480">
 
 ### Dashboard
-<img src="screenshots/dashboard_gpsd.png" width="480">
+<img src="screenshots/dashboard.png" width="480">
 
 ### Alerts
 <img src="screenshots/alerts.png" width="480">
@@ -37,25 +57,52 @@ A custom purple/green theme for the Hak5 WiFi Pineapple Pager.
 ### Payloads
 <img src="screenshots/payloads.png" width="480">
 
+### Payload Category
+<img src="screenshots/payloads_category.png" width="480">
+
+### Payload Launch
+<img src="screenshots/payload_launch.png" width="480">
+
+### Payload Executed
+<img src="screenshots/payload_executed.png" width="480">
+
 ### Recon
 <img src="screenshots/recon.png" width="480">
 
 ### PineAP
 <img src="screenshots/pineap.png" width="480">
 
+### PineAP Submenu
+<img src="screenshots/pineap_submenu.png" width="480">
+
 ### Settings
 <img src="screenshots/settings.png" width="480">
 
-### GPSD Restart
-<img src="screenshots/gpsd.png" width="480">
+### Wardriving
+<img src="screenshots/wardriving.png" width="480">
 
 ### GEIGER Toggle
 <img src="screenshots/geiger.png" width="480">
 
+### Dialog Box
+<img src="screenshots/dialog.png" width="480">
+
+### On-Screen Keyboard
+<img src="screenshots/keyboard.png" width="480">
+
+### Confirmation Dialog
+<img src="screenshots/confirmation.png" width="480">
+
+## Installation
+
+1. Copy the theme folder to `/root/themes/` on your WiFi Pineapple Pager
+2. Select the theme from Settings > Display > Theme
+
 ## Customization
 
 - Edit `theme.json` for color palette
-- Edit `components/dashboards/wargames_dashboard.json` for button layout
+- Edit `components/dashboards/wargames_dashboard.json` for dashboard button layout
+- Edit `components/dashboards/status_screen.json` for wardriving screen layout
 - Icons are in `assets/dashboard/`
 
 ## Author

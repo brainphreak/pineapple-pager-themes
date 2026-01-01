@@ -45,7 +45,8 @@
 
     "pineap_menu": "components/dashboards/dashboard_pineap.json",
     "settings_menu": "components/dashboards/dashboard_settings.json",
-    "gv_alerts_menu": "components/dashboards/dashboard_gv_alerts.json"
+    "gv_alerts_menu": "components/dashboards/dashboard_gv_alerts.json",
+    "status_screen": "components/dashboards/status_screen.json"
   },
 
   "option_dialogs": {
