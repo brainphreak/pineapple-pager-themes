@@ -26,28 +26,28 @@ A custom purple/green theme for the Hak5 WiFi Pineapple Pager.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard_gpsd.png)
+<img src="screenshots/dashboard_gpsd.png" width="480">
 
 ### Alerts
-![Alerts](screenshots/alerts.png)
+<img src="screenshots/alerts.png" width="480">
 
 ### Payloads
-![Payloads](screenshots/payloads.png)
+<img src="screenshots/payloads.png" width="480">
 
 ### Recon
-![Recon](screenshots/recon.png)
+<img src="screenshots/recon.png" width="480">
 
 ### PineAP
-![PineAP](screenshots/pineap.png)
+<img src="screenshots/pineap.png" width="480">
 
 ### Settings
-![Settings](screenshots/settings.png)
+<img src="screenshots/settings.png" width="480">
 
 ### GPSD Restart
-![GPSD](screenshots/gpsd.png)
+<img src="screenshots/gpsd.png" width="480">
 
 ### GEIGER Toggle
-![GEIGER](screenshots/geiger.png)
+<img src="screenshots/geiger.png" width="480">
 
 ## Customization
 
