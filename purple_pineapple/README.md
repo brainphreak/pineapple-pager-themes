@@ -98,6 +98,10 @@ The wardriving screen provides quick access to GPS and wardriving-related settin
 1. Copy the theme folder to `/root/themes/` on your WiFi Pineapple Pager
 2. Select the theme from Settings > Display > Theme
 
+## Credits
+
+- Boot screen artwork by **Pixel Jeff**
+
 ## Author
 
 brAinphreAk
