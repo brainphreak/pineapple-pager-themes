@@ -2,14 +2,30 @@
 
 A custom purple/green cyberpunk theme for the Hak5 WiFi Pineapple Pager.
 
+## Author
+
+brAinphreAk
+
+## Description
+
+A cyberpunk-inspired theme featuring a purple color scheme with green highlights for selected items. Includes a custom boot animation, 7-button dashboard layout with zigzag pattern, and a dedicated wardriving screen for GPS and reconnaissance settings.
+
 ## Features
 
 - Purple color scheme with green highlights when selected
 - 7-button dashboard layout with zigzag pattern
 - Custom icons for all dashboard buttons
-- **NEW: Wardriving screen** with GPS coordinates and two-column settings layout
+- Wardriving screen with GPS coordinates and two-column settings layout
 - GEIGER toggle for recon audio on dashboard
-- Custom boot animation with cyberpunk command center
+- Custom boot animation with cyberpunk command center artwork
+
+## Known Limitations
+
+- None identified at this time
+
+## Firmware Version
+
+Developed and tested on WiFi Pineapple Pager firmware version 1.0
 
 ## Dashboard Buttons
 
@@ -101,7 +117,3 @@ The wardriving screen provides quick access to GPS and wardriving-related settin
 ## Credits
 
 - Boot screen artwork by **Pixel Jeff**
-
-## Author
-
-brAinphreAk
